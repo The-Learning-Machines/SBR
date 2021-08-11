@@ -181,12 +181,12 @@ def train_test(model, train_data, test_data):
     slices = train_data.generate_batch(model.batch_size)
 
     for i, j in tqdm(zip(slices, np.arange(len(slices))), total=len(slices)):
-        model.agc_optimizer.zero_grad()
+        model.optimizer.zero_grad()
         targets, scores = forward(model, i, train_data)
         targets = to_cuda(torch.Tensor(targets).long())
         loss = model.loss_function(scores, targets - 1)
         loss.backward()
-        model.agc_optimizer.step()
+        model.optimizer.step()
         total_loss += loss.item()
 
         if j % int(len(slices) / 5 + 1) == 0:
