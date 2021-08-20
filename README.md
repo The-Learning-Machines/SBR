@@ -5,7 +5,7 @@
      
 # Improved Representation Learning for Session-based Recommendation ([arXiv](https://arxiv.org/abs/2107.01516))
 
-| **[ [```Model Architecture```](<assets/TAGNN++.png>) ]** | **[ [```Task```](<assets/SBR_Task.png>) ]** | **[ [```Paper```](<https://drive.google.com/file/d/1d5qw3fzLhNent8Z00cidBE1Ugr6Eqyps/view?usp=sharing>) ]** | **[ [```arXiv```](<https://arxiv.org/abs/2107.01516>) ]** 
+| **[ [```Model Architecture```](<assets/TAGNN++.png>) ]** | **[ [```Task```](<assets/SBR_Task.png>) ]** | **[ [```Paper```](<https://drive.google.com/file/d/1usXlOaP6CPw5EZj0xqSM0lzs69xqvxYv/view?usp=sharing>) ]** | **[ [```arXiv```](<https://arxiv.org/abs/2107.01516>) ]** 
 |:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 
      
