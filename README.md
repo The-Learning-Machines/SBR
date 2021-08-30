@@ -78,13 +78,13 @@ git clone https://github.com/vballoli/nfnets-pytorch.git
 
 <img src="assets/SBR_Task.png" width="450">
   
----     
+<!-- ---     
      
 # Results
 
 <img src="assets/Results_plot.png" width="600">
   
----
+--- -->
      
 For further details, contact **Sai Mitheran** via [Linkedin](https://www.linkedin.com/in/sai-mitheran-4b9422187/), or via email by clicking the icon below.  
 
