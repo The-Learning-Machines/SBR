@@ -10,7 +10,9 @@
 
      
 PyTorch implementation of the model TAGNN++, presented in the paper "Improved Representation Learning for Session-based Recommendation"
- 
+<br>
+<br>
+     **Accepted at AISP '22**
      
 ---
    
