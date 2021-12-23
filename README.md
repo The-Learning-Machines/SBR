@@ -3,13 +3,13 @@
 
 <samp>
      
-# Improved Representation Learning for Session-based Recommendation ([arXiv](https://arxiv.org/abs/2107.01516))
+# Introducing Self-Attention to Target Attentive Graph Neural Networks ([arXiv](https://arxiv.org/abs/2107.01516))
 
 | **[ [```Model Architecture```](<assets/TAGNN++.png>) ]** | **[ [```Task```](<assets/SBR_Task.png>) ]** | **[ [```Paper```](<https://drive.google.com/file/d/1usXlOaP6CPw5EZj0xqSM0lzs69xqvxYv/view?usp=sharing>) ]** | **[ [```arXiv```](<https://arxiv.org/abs/2107.01516>) ]** 
 |:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 
      
-PyTorch implementation of the model TAGNN++, presented in the paper "Improved Representation Learning for Session-based Recommendation"
+PyTorch implementation of the model TAGNN++, presented in the paper "Introducing Self-Attention to Target Attentive Graph Neural Networks"
 <br>
 <br>
      **Accepted at AISP '22**
